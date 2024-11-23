@@ -1,0 +1,687 @@
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/root/footballproj
++ DJANGODIR=/root/footballproj
++ export SOCKFILE=/root/footballproj/run/gunicorn.sock
++ SOCKFILE=/root/footballproj/run/gunicorn.sock
++ export USER=root
++ USER=root
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /root/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/root/footballproj:
++ PYTHONPATH=/root/footballproj:
+++ dirname /root/footballproj/run/gunicorn.sock
++ RUNDIR=/root/footballproj/run
++ test -d /root/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=root --group=footballproj --bind=unix:/root/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+[2024-11-23 15:27:04 +0000] [36376] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['unix:/root/footballproj/run/gunicorn.sock']
+  backlog: 2048
+  workers: 5
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 120
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /root/footballproj
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 0
+  group: 988
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: footballproj
+  default_proc_name: footballproj.wsgi:application
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7b7805e68fe0>
+  on_reload: <function OnReload.on_reload at 0x7b7805e69120>
+  when_ready: <function WhenReady.when_ready at 0x7b7805e69260>
+  pre_fork: <function Prefork.pre_fork at 0x7b7805e69440>
+  post_fork: <function Postfork.post_fork at 0x7b7805e69580>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7b7805e696c0>
+  worker_int: <function WorkerInt.worker_int at 0x7b7805e69800>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7b7805e69940>
+  pre_exec: <function PreExec.pre_exec at 0x7b7805e69a80>
+  pre_request: <function PreRequest.pre_request at 0x7b7805e69bc0>
+  post_request: <function PostRequest.post_request at 0x7b7805e69c60>
+  child_exit: <function ChildExit.child_exit at 0x7b7805e69da0>
+  worker_exit: <function WorkerExit.worker_exit at 0x7b7805e69ee0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7b7805e6a020>
+  on_exit: <function OnExit.on_exit at 0x7b7805e6a160>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7b7805e6a340>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  strip_header_spaces: False
+[2024-11-23 15:27:04 +0000] [36376] [INFO] Starting gunicorn 21.2.0
+[2024-11-23 15:27:04 +0000] [36376] [DEBUG] Arbiter booted
+[2024-11-23 15:27:04 +0000] [36376] [INFO] Listening at: unix:/root/footballproj/run/gunicorn.sock (36376)
+[2024-11-23 15:27:04 +0000] [36376] [INFO] Using worker: sync
+[2024-11-23 15:27:04 +0000] [36378] [INFO] Booting worker with pid: 36378
+[2024-11-23 15:27:04 +0000] [36380] [INFO] Booting worker with pid: 36380
+[2024-11-23 15:27:04 +0000] [36381] [INFO] Booting worker with pid: 36381
+[2024-11-23 15:27:04 +0000] [36382] [INFO] Booting worker with pid: 36382
+[2024-11-23 15:27:04 +0000] [36383] [INFO] Booting worker with pid: 36383
+[2024-11-23 15:27:04 +0000] [36376] [DEBUG] 5 workers
+[2024-11-23 15:27:20 +0000] [36376] [INFO] Handling signal: term
+[2024-11-23 15:27:20 +0000] [36381] [INFO] Worker exiting (pid: 36381)
+[2024-11-23 15:27:20 +0000] [36378] [INFO] Worker exiting (pid: 36378)
+[2024-11-23 15:27:20 +0000] [36380] [INFO] Worker exiting (pid: 36380)
+[2024-11-23 15:27:20 +0000] [36382] [INFO] Worker exiting (pid: 36382)
+[2024-11-23 15:27:20 +0000] [36383] [INFO] Worker exiting (pid: 36383)
+[2024-11-23 15:27:20 +0000] [36376] [INFO] Shutting down: Master
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/root/footballproj
++ DJANGODIR=/root/footballproj
++ export SOCKFILE=/root/footballproj/run/gunicorn.sock
++ SOCKFILE=/root/footballproj/run/gunicorn.sock
++ export USER=root
++ USER=root
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /root/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/root/footballproj:
++ PYTHONPATH=/root/footballproj:
+++ dirname /root/footballproj/run/gunicorn.sock
++ RUNDIR=/root/footballproj/run
++ test -d /root/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=root --group=footballproj --bind=unix:/root/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+[2024-11-23 15:27:21 +0000] [36392] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['unix:/root/footballproj/run/gunicorn.sock']
+  backlog: 2048
+  workers: 5
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 120
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /root/footballproj
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 0
+  group: 988
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: footballproj
+  default_proc_name: footballproj.wsgi:application
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x707578aa8fe0>
+  on_reload: <function OnReload.on_reload at 0x707578aa9120>
+  when_ready: <function WhenReady.when_ready at 0x707578aa9260>
+  pre_fork: <function Prefork.pre_fork at 0x707578aa9440>
+  post_fork: <function Postfork.post_fork at 0x707578aa9580>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x707578aa96c0>
+  worker_int: <function WorkerInt.worker_int at 0x707578aa9800>
+  worker_abort: <function WorkerAbort.worker_abort at 0x707578aa9940>
+  pre_exec: <function PreExec.pre_exec at 0x707578aa9a80>
+  pre_request: <function PreRequest.pre_request at 0x707578aa9bc0>
+  post_request: <function PostRequest.post_request at 0x707578aa9c60>
+  child_exit: <function ChildExit.child_exit at 0x707578aa9da0>
+  worker_exit: <function WorkerExit.worker_exit at 0x707578aa9ee0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x707578aaa020>
+  on_exit: <function OnExit.on_exit at 0x707578aaa160>
+  ssl_context: <function NewSSLContext.ssl_context at 0x707578aaa340>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  strip_header_spaces: False
+[2024-11-23 15:27:21 +0000] [36392] [INFO] Starting gunicorn 21.2.0
+[2024-11-23 15:27:21 +0000] [36392] [DEBUG] Arbiter booted
+[2024-11-23 15:27:21 +0000] [36392] [INFO] Listening at: unix:/root/footballproj/run/gunicorn.sock (36392)
+[2024-11-23 15:27:21 +0000] [36392] [INFO] Using worker: sync
+[2024-11-23 15:27:21 +0000] [36394] [INFO] Booting worker with pid: 36394
+[2024-11-23 15:27:21 +0000] [36395] [INFO] Booting worker with pid: 36395
+[2024-11-23 15:27:21 +0000] [36396] [INFO] Booting worker with pid: 36396
+[2024-11-23 15:27:21 +0000] [36397] [INFO] Booting worker with pid: 36397
+[2024-11-23 15:27:21 +0000] [36398] [INFO] Booting worker with pid: 36398
+[2024-11-23 15:27:21 +0000] [36392] [DEBUG] 5 workers
+[2024-11-23 15:40:20 +0000] [36392] [INFO] Handling signal: term
+Traceback (most recent call last):
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 224, in run
+    handler()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 257, in handle_term
+    raise StopIteration
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/footballproj/.venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+             ^^^^^
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+    super().run()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 227, in run
+[2024-11-23 15:40:20 +0000] [36395] [INFO] Worker exiting (pid: 36395)
+    self.halt()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 385, in stop
+    sock.close_sockets(self.LISTENERS, unlink)
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/sock.py", line 213, in close_sockets
+    os.unlink(sock_name)
+FileNotFoundError: [Errno 2] No such file or directory: '/root/footballproj/run/gunicorn.sock'
+[2024-11-23 15:40:20 +0000] [36396] [INFO] Worker exiting (pid: 36396)
+[2024-11-23 15:40:20 +0000] [36397] [INFO] Worker exiting (pid: 36397)
+[2024-11-23 15:40:20 +0000] [36394] [INFO] Worker exiting (pid: 36394)
+[2024-11-23 15:40:20 +0000] [36398] [INFO] Worker exiting (pid: 36398)
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/root/footballproj
++ DJANGODIR=/root/footballproj
++ export SOCKFILE=/root/footballproj/run/gunicorn.sock
++ SOCKFILE=/root/footballproj/run/gunicorn.sock
++ export USER=root
++ USER=root
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /root/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/root/footballproj:
++ PYTHONPATH=/root/footballproj:
+++ dirname /root/footballproj/run/gunicorn.sock
++ RUNDIR=/root/footballproj/run
++ test -d /root/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=root --group=footballproj --bind=unix:/root/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+[2024-11-23 15:40:22 +0000] [36652] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['unix:/root/footballproj/run/gunicorn.sock']
+  backlog: 2048
+  workers: 5
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 120
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /root/footballproj
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 0
+  group: 988
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: footballproj
+  default_proc_name: footballproj.wsgi:application
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7eea60aa8fe0>
+  on_reload: <function OnReload.on_reload at 0x7eea60aa9120>
+  when_ready: <function WhenReady.when_ready at 0x7eea60aa9260>
+  pre_fork: <function Prefork.pre_fork at 0x7eea60aa9440>
+  post_fork: <function Postfork.post_fork at 0x7eea60aa9580>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7eea60aa96c0>
+  worker_int: <function WorkerInt.worker_int at 0x7eea60aa9800>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7eea60aa9940>
+  pre_exec: <function PreExec.pre_exec at 0x7eea60aa9a80>
+  pre_request: <function PreRequest.pre_request at 0x7eea60aa9bc0>
+  post_request: <function PostRequest.post_request at 0x7eea60aa9c60>
+  child_exit: <function ChildExit.child_exit at 0x7eea60aa9da0>
+  worker_exit: <function WorkerExit.worker_exit at 0x7eea60aa9ee0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7eea60aaa020>
+  on_exit: <function OnExit.on_exit at 0x7eea60aaa160>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7eea60aaa340>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  strip_header_spaces: False
+[2024-11-23 15:40:22 +0000] [36652] [INFO] Starting gunicorn 21.2.0
+[2024-11-23 15:40:22 +0000] [36652] [DEBUG] Arbiter booted
+[2024-11-23 15:40:22 +0000] [36652] [INFO] Listening at: unix:/root/footballproj/run/gunicorn.sock (36652)
+[2024-11-23 15:40:22 +0000] [36652] [INFO] Using worker: sync
+[2024-11-23 15:40:22 +0000] [36654] [INFO] Booting worker with pid: 36654
+[2024-11-23 15:40:22 +0000] [36655] [INFO] Booting worker with pid: 36655
+[2024-11-23 15:40:22 +0000] [36656] [INFO] Booting worker with pid: 36656
+[2024-11-23 15:40:22 +0000] [36657] [INFO] Booting worker with pid: 36657
+[2024-11-23 15:40:22 +0000] [36658] [INFO] Booting worker with pid: 36658
+[2024-11-23 15:40:22 +0000] [36652] [DEBUG] 5 workers
+[2024-11-23 15:40:59 +0000] [36652] [INFO] Handling signal: term
+[2024-11-23 15:40:59 +0000] [36654] [INFO] Worker exiting (pid: 36654)
+[2024-11-23 15:40:59 +0000] [36656] [INFO] Worker exiting (pid: 36656)
+[2024-11-23 15:40:59 +0000] [36655] [INFO] Worker exiting (pid: 36655)
+[2024-11-23 15:40:59 +0000] [36657] [INFO] Worker exiting (pid: 36657)
+[2024-11-23 15:40:59 +0000] [36658] [INFO] Worker exiting (pid: 36658)
+[2024-11-23 15:41:00 +0000] [36652] [INFO] Shutting down: Master
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/root/footballproj
++ DJANGODIR=/root/footballproj
++ export SOCKFILE=/root/footballproj/run/gunicorn.sock
++ SOCKFILE=/root/footballproj/run/gunicorn.sock
++ export USER=root
++ USER=root
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /root/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/root/footballproj:
++ PYTHONPATH=/root/footballproj:
+++ dirname /root/footballproj/run/gunicorn.sock
++ RUNDIR=/root/footballproj/run
++ test -d /root/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=root --group=footballproj --bind=unix:/root/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+[2024-11-23 15:56:40 +0000] [36802] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['unix:/root/footballproj/run/gunicorn.sock']
+  backlog: 2048
+  workers: 5
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 120
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /root/footballproj
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 0
+  group: 988
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: -
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: footballproj
+  default_proc_name: footballproj.wsgi:application
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7ea8537a8fe0>
+  on_reload: <function OnReload.on_reload at 0x7ea8537a9120>
+  when_ready: <function WhenReady.when_ready at 0x7ea8537a9260>
+  pre_fork: <function Prefork.pre_fork at 0x7ea8537a9440>
+  post_fork: <function Postfork.post_fork at 0x7ea8537a9580>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7ea8537a96c0>
+  worker_int: <function WorkerInt.worker_int at 0x7ea8537a9800>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7ea8537a9940>
+  pre_exec: <function PreExec.pre_exec at 0x7ea8537a9a80>
+  pre_request: <function PreRequest.pre_request at 0x7ea8537a9bc0>
+  post_request: <function PostRequest.post_request at 0x7ea8537a9c60>
+  child_exit: <function ChildExit.child_exit at 0x7ea8537a9da0>
+  worker_exit: <function WorkerExit.worker_exit at 0x7ea8537a9ee0>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7ea8537aa020>
+  on_exit: <function OnExit.on_exit at 0x7ea8537aa160>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7ea8537aa340>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  strip_header_spaces: False
+[2024-11-23 15:56:40 +0000] [36802] [INFO] Starting gunicorn 21.2.0
+[2024-11-23 15:56:40 +0000] [36802] [DEBUG] Arbiter booted
+[2024-11-23 15:56:40 +0000] [36802] [INFO] Listening at: unix:/root/footballproj/run/gunicorn.sock (36802)
+[2024-11-23 15:56:40 +0000] [36802] [INFO] Using worker: sync
+[2024-11-23 15:56:40 +0000] [36804] [INFO] Booting worker with pid: 36804
+[2024-11-23 15:56:40 +0000] [36805] [INFO] Booting worker with pid: 36805
+[2024-11-23 15:56:40 +0000] [36806] [INFO] Booting worker with pid: 36806
+[2024-11-23 15:56:40 +0000] [36807] [INFO] Booting worker with pid: 36807
+[2024-11-23 15:56:40 +0000] [36808] [INFO] Booting worker with pid: 36808
+[2024-11-23 15:56:40 +0000] [36802] [DEBUG] 5 workers
+[2024-11-23 15:58:27 +0000] [36808] [DEBUG] GET /
+[2024-11-23 15:58:41 +0000] [36807] [DEBUG] GET /
+[2024-11-23 15:58:42 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 16:01:55 +0000] [36808] [DEBUG] GET /actuator/health
+[2024-11-23 16:02:03 +0000] [36804] [DEBUG] GET /
+[2024-11-23 16:11:36 +0000] [36807] [DEBUG] GET /
+[2024-11-23 16:11:36 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 16:11:42 +0000] [36806] [DEBUG] GET /
+[2024-11-23 16:12:33 +0000] [36806] [DEBUG] GET /
+[2024-11-23 16:14:00 +0000] [36807] [DEBUG] GET /
+[2024-11-23 16:18:28 +0000] [36807] [DEBUG] GET /
+[2024-11-23 16:18:28 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 16:19:30 +0000] [36806] [DEBUG] GET /
+[2024-11-23 16:35:55 +0000] [36806] [DEBUG] GET /
+[2024-11-23 16:35:55 +0000] [36806] [DEBUG] GET /favicon.ico
+[2024-11-23 16:47:50 +0000] [36808] [DEBUG] GET /
+[2024-11-23 16:47:50 +0000] [36808] [DEBUG] GET /favicon.ico
+[2024-11-23 16:53:10 +0000] [36806] [DEBUG] GET /
+[2024-11-23 16:53:10 +0000] [36808] [DEBUG] GET /
+[2024-11-23 16:53:10 +0000] [36805] [DEBUG] GET /
+[2024-11-23 16:53:10 +0000] [36808] [DEBUG] GET /
+[2024-11-23 16:53:11 +0000] [36807] [DEBUG] GET /
+[2024-11-23 16:53:48 +0000] [36804] [DEBUG] GET /
+[2024-11-23 16:53:48 +0000] [36804] [DEBUG] GET /favicon.ico
+[2024-11-23 16:56:31 +0000] [36804] [DEBUG] GET /
+[2024-11-23 16:56:31 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 16:56:48 +0000] [36807] [DEBUG] GET /
+[2024-11-23 16:56:48 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 16:57:25 +0000] [36807] [DEBUG] GET /
+[2024-11-23 17:01:39 +0000] [36807] [DEBUG] GET /
+[2024-11-23 17:01:39 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 17:09:53 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:09:53 +0000] [36805] [DEBUG] GET /favicon.ico
+[2024-11-23 17:11:29 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:11:29 +0000] [36805] [DEBUG] GET /favicon.ico
+[2024-11-23 17:11:32 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:11:33 +0000] [36805] [DEBUG] GET /favicon.ico
+[2024-11-23 17:13:27 +0000] [36808] [DEBUG] GET /
+[2024-11-23 17:16:35 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:17:33 +0000] [36807] [DEBUG] GET /admin/console/index.html
+[2024-11-23 17:17:33 +0000] [36807] [DEBUG] GET /api/panelhash
+[2024-11-23 17:17:34 +0000] [36807] [DEBUG] GET /covenantuser/login
+[2024-11-23 17:17:36 +0000] [36807] [DEBUG] GET /login
+[2024-11-23 17:17:37 +0000] [36807] [DEBUG] GET /new/login
+[2024-11-23 17:17:39 +0000] [36804] [DEBUG] GET /
+[2024-11-23 17:18:18 +0000] [36807] [DEBUG] POST /init
+[2024-11-23 17:19:18 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:21:07 +0000] [36805] [DEBUG] GET /
+[2024-11-23 17:21:07 +0000] [36805] [DEBUG] GET /favicon.ico
+[2024-11-23 17:24:33 +0000] [36804] [DEBUG] GET /
+[2024-11-23 17:24:33 +0000] [36804] [DEBUG] GET /favicon.ico

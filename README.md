@@ -7,7 +7,7 @@
 # the image of Ubuntu. This project also uses a hosted mysql database on
 # DigitalOcean. This project was made on ubuntu by ssh into the ip address
 # produced by the DigitalOcean droplet.
-
+# domain (blitz3d.net) hosted by go daddy and points to digital ocean droplet public ipv4 
 
 
 # IF PIP IS BEING TRASH DO THIS
@@ -33,6 +33,96 @@ git push -u origin main --force
 python3 -m venv .venv
 . .venv/bin/activate
 python3 -m pip install Django
+
+# /////////GUNICORN/////////
+source: https://www.youtube.com/watch?v=Td3lirXIeRI&t=2206s
+file: .venv/bin/gunicorn_start:
+#!/bin/bash -x
+
+export NAME='footballproj'
+export DJANGODIR=/root/footballproj
+export SOCKFILE=/root/footballproj/run/gunicorn.sock
+export USER=root
+export GROUP=footballproj
+export NUM_WORKERS=5
+export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
+export DJANGO_WSGI_MODULE=footballproj.wsgi
+export TIMEOUT=120
+
+cd $DJANGODIR
+source .venv/bin/activate
+export PYTHONPATH=$DJANGODIR:$PYTHONPATH
+
+RUNDIR=$(dirname $SOCKFILE)
+test -d $RUNDIR || mkdir -p $RUNDIR
+
+exec .venv/bin/gunicorn ${DJANGO_WSGI_MODULE}:application \
+        --name $NAME \
+        --workers $NUM_WORKERS \
+        --timeout $TIMEOUT \
+        --user=$USER --group=$GROUP \
+        --bind=unix:$SOCKFILE \
+        --log-level=debug \
+        --log-file=-
+# To run the file:
+.venv/bin/gunicorn_start
+
+# In /etc/supervisor/conf.d/footballproj.conf
+[program:footballproj]
+command = /root/footballproj/.venv/bin/gunicorn_start
+user = root
+stdou_logfile = /root/footballproj/logs/supervisor.log
+redirect_stderr = true
+environment=LANG=en_US.UTF-8,LC_ALL=en_US.UTF-8
+
+# to run this conf
+supervisorctl reread
+supervisorctl update
+supervisorctl status
+# should print out something like this:
+footballproj                     RUNNING   pid 35275, uptime 0:00:18
+
+
+# //////////NGINX STUFF/////////////
+# go to sites-available and add file
+cd /etc/nginx/sites-available
+vim footballproj.conf
+
+upstream footballproj_app_server {
+        server unix:/root/footballproj/run/gunicornsock fail_timeout=0;
+}
+
+server {
+        listen 80;
+        server_name blitz3d.com;
+        access_log /root/footballproj/logs/access.log;
+        error_log /root/footballproj/logs/error.log;
+        
+        location /static/ {
+                alias /root/footballproj/static/;
+        }       
+        
+        location /media/ {
+                alias /root/footballproj/media/;
+        }       
+        
+        location / {
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                proxy_set_header Host $http_host;
+                proxy_redirect off;
+                if (!-f $request_filename) {
+                        proxy_pass http://footballproj_app_server;
+                }       
+        }   
+}
+
+# go to sites-enabled
+cd /etc/nginx/sites-enabled
+# make symbolic link
+ln -s ../sites-available/footballproj.conf .
+# while still in sites-enabled directory start nginx
+service nginx start
+
 
 # Create project 
 django-admin startproject footballproj
@@ -89,8 +179,7 @@ python3 manage.py migrate
 -Run the server and the html should render
 
 # Install mysql
--Go to base folder
-pip install mysql client
+pip install mysqlclient
 
 # ///////OPEN AI//////
 source: https://platform.openai.com/docs/api-reference/introduction
@@ -126,7 +215,3 @@ application = ProtocolTypeRouter({
 })
 
 ASGI_APPLICATION = 'footballproj.asgi.application'
-
--Make sure docker is installed
--start a docker daemon
-sudo systemctl start docker
