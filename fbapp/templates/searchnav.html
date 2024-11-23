@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <div>
+    <h1>BLITZ3D: DIRT, DEN, DATA</h1>
+  </div>
+ 
+  <form action="" method = "post">
+    {% csrf_token %}
+    <input id="question" type="text" name="question">
+    <input type="submit" value"Ask">
+  </form>
+  <p>{{ answer.content }}</p>
+  {% block content %}
+ 
+  {% endblock %}
+</body>
+</html>
