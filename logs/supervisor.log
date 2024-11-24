@@ -685,3 +685,1708 @@ FileNotFoundError: [Errno 2] No such file or directory: '/root/footballproj/run/
 [2024-11-23 17:21:07 +0000] [36805] [DEBUG] GET /favicon.ico
 [2024-11-23 17:24:33 +0000] [36804] [DEBUG] GET /
 [2024-11-23 17:24:33 +0000] [36804] [DEBUG] GET /favicon.ico
+[2024-11-23 17:29:05 +0000] [36808] [DEBUG] GET /
+[2024-11-23 17:29:06 +0000] [36808] [DEBUG] GET /file.php
+[2024-11-23 17:29:06 +0000] [36807] [DEBUG] GET /index/function.php
+[2024-11-23 17:29:06 +0000] [36804] [DEBUG] GET /.ll/.qiodetme.php
+[2024-11-23 17:29:06 +0000] [36807] [DEBUG] GET /.qiodetme.php
+[2024-11-23 17:29:06 +0000] [36807] [DEBUG] GET /new.php
+[2024-11-23 17:29:07 +0000] [36807] [DEBUG] GET /pages.php
+[2024-11-23 17:29:07 +0000] [36807] [DEBUG] GET /upload.php
+[2024-11-23 17:29:07 +0000] [36807] [DEBUG] GET /wp-editor.php
+[2024-11-23 17:29:07 +0000] [36807] [DEBUG] GET /admin.php
+[2024-11-23 17:29:07 +0000] [36807] [DEBUG] GET /ge.php
+[2024-11-23 17:29:08 +0000] [36807] [DEBUG] GET /chosen.php
+[2024-11-23 17:29:08 +0000] [36807] [DEBUG] GET /templatesdex.php
+[2024-11-23 17:29:08 +0000] [36807] [DEBUG] GET /click.php
+[2024-11-23 17:29:08 +0000] [36807] [DEBUG] GET /.lu/.qiodetme.php
+[2024-11-23 17:29:08 +0000] [36807] [DEBUG] GET /mah.php
+[2024-11-23 17:29:09 +0000] [36807] [DEBUG] GET /simple.php
+[2024-11-23 17:29:09 +0000] [36808] [DEBUG] GET /dropdown.php
+[2024-11-23 17:29:09 +0000] [36808] [DEBUG] GET /wp-mail.php
+[2024-11-23 17:29:09 +0000] [36808] [DEBUG] GET /randkeyword.PhP7
+[2024-11-23 17:29:09 +0000] [36808] [DEBUG] GET /wp-content/index.php
+[2024-11-23 17:29:10 +0000] [36808] [DEBUG] GET /lock.php
+[2024-11-23 17:29:10 +0000] [36808] [DEBUG] GET /radio.php
+[2024-11-23 17:29:10 +0000] [36808] [DEBUG] GET /ws.php
+[2024-11-23 17:29:10 +0000] [36808] [DEBUG] GET /x.php
+[2024-11-23 17:29:10 +0000] [36808] [DEBUG] GET /login.php
+[2024-11-23 17:29:11 +0000] [36808] [DEBUG] GET /eew.php
+[2024-11-23 17:29:11 +0000] [36808] [DEBUG] GET /wp-admin/images/index.php
+[2024-11-23 17:29:11 +0000] [36808] [DEBUG] GET /wp-admin/css/colors/blue/about.php
+[2024-11-23 17:29:12 +0000] [36808] [DEBUG] GET /test.php
+[2024-11-23 17:29:12 +0000] [36805] [DEBUG] GET /wp-admin/images/about.php
+[2024-11-23 17:29:12 +0000] [36808] [DEBUG] GET /cong.php
+[2024-11-23 17:29:12 +0000] [36805] [DEBUG] GET /baxa1.phP8
+[2024-11-23 17:29:13 +0000] [36805] [DEBUG] GET /templates/atomic/templates.php
+[2024-11-23 17:29:13 +0000] [36805] [DEBUG] GET /wp-admin/css/index.php
+[2024-11-23 17:29:13 +0000] [36805] [DEBUG] GET /wp-admin/network/admin.php
+[2024-11-23 17:29:13 +0000] [36805] [DEBUG] GET /autoload_classmap.php
+[2024-11-23 17:29:13 +0000] [36805] [DEBUG] GET /themes.php
+[2024-11-23 17:29:14 +0000] [36805] [DEBUG] GET /wp-includes/ID3/index.php
+[2024-11-23 17:29:14 +0000] [36805] [DEBUG] GET /wp-includes/Text/about.php
+[2024-11-23 17:29:14 +0000] [36805] [DEBUG] GET /wp-admin/network/index.php
+[2024-11-23 17:29:14 +0000] [36805] [DEBUG] GET /rex/l/index.php
+[2024-11-23 17:29:14 +0000] [36805] [DEBUG] GET /wp-content/plugins/rex/l/index.php
+[2024-11-23 17:29:15 +0000] [36805] [DEBUG] GET /wp-admin/js/index.php
+[2024-11-23 17:29:15 +0000] [36805] [DEBUG] GET /.well-known/.qiodetme.php
+[2024-11-23 17:29:15 +0000] [36805] [DEBUG] GET /chosen.phppload
+[2024-11-23 17:29:15 +0000] [36805] [DEBUG] GET /404.php
+[2024-11-23 17:29:15 +0000] [36805] [DEBUG] GET /sxx.php
+[2024-11-23 17:29:16 +0000] [36808] [DEBUG] GET /wp-admin/maint/index.php
+[2024-11-23 17:29:16 +0000] [36808] [DEBUG] GET /baxa1.php
+[2024-11-23 17:29:16 +0000] [36808] [DEBUG] GET /classwithtostring.php
+[2024-11-23 17:29:16 +0000] [36808] [DEBUG] GET /wp-content/plugins/index.php
+[2024-11-23 17:29:16 +0000] [36808] [DEBUG] GET /about/function.php
+[2024-11-23 17:29:17 +0000] [36808] [DEBUG] GET /user/default.php
+[2024-11-23 17:29:17 +0000] [36808] [DEBUG] GET /wp-content/themes/about.php
+[2024-11-23 17:29:17 +0000] [36808] [DEBUG] GET /wp-includes/css/dist/niil.php
+[2024-11-23 17:29:17 +0000] [36808] [DEBUG] GET /moon.php
+[2024-11-23 17:29:17 +0000] [36805] [DEBUG] GET /wp-admin/css/about.php
+[2024-11-23 17:29:18 +0000] [36808] [DEBUG] GET /wp-admin/js/about.php
+[2024-11-23 17:29:18 +0000] [36808] [DEBUG] GET /1.php
+[2024-11-23 17:29:18 +0000] [36808] [DEBUG] GET /wp-content/uploads/index.php
+[2024-11-23 17:29:18 +0000] [36808] [DEBUG] GET /pgs.phP7
+[2024-11-23 17:29:18 +0000] [36808] [DEBUG] GET /shell20211028.php
+[2024-11-23 17:29:19 +0000] [36806] [DEBUG] GET /mjq.php
+[2024-11-23 17:29:19 +0000] [36806] [DEBUG] GET /content.php
+[2024-11-23 17:29:19 +0000] [36806] [DEBUG] GET /readme.php
+[2024-11-23 17:29:19 +0000] [36806] [DEBUG] GET /litespeed.php
+[2024-11-23 17:29:20 +0000] [36806] [DEBUG] GET /bypass.php
+[2024-11-23 17:29:20 +0000] [36806] [DEBUG] GET /.qiodeme.php
+[2024-11-23 17:29:20 +0000] [36806] [DEBUG] GET /ad.php
+[2024-11-23 17:29:20 +0000] [36806] [DEBUG] GET /wp-content/plugins/pwnd/pwnd.php
+[2024-11-23 17:29:20 +0000] [36806] [DEBUG] GET /wp-content/upgrade/about.php
+[2024-11-23 17:29:21 +0000] [36806] [DEBUG] GET /df.php
+[2024-11-23 17:29:21 +0000] [36806] [DEBUG] GET /jindex.php
+[2024-11-23 17:29:21 +0000] [36806] [DEBUG] GET /wp-configs.php
+[2024-11-23 17:29:21 +0000] [36808] [DEBUG] GET /Files/Mo0n.php
+[2024-11-23 17:29:21 +0000] [36808] [DEBUG] GET /wp-content/mah.php
+[2024-11-23 17:29:22 +0000] [36805] [DEBUG] GET /bv.php
+[2024-11-23 17:29:22 +0000] [36804] [DEBUG] GET /.well-known/acme-challenge/index.php
+[2024-11-23 17:29:22 +0000] [36804] [DEBUG] GET /403.php
+[2024-11-23 17:29:22 +0000] [36807] [DEBUG] GET /bk.php
+[2024-11-23 17:29:22 +0000] [36807] [DEBUG] GET /wp-includes/fonts/index.php
+[2024-11-23 17:29:23 +0000] [36807] [DEBUG] GET /wp-content/languages/index.php
+[2024-11-23 17:29:23 +0000] [36807] [DEBUG] GET /wp-atom.php
+[2024-11-23 17:29:23 +0000] [36807] [DEBUG] GET /hj.php
+[2024-11-23 17:29:23 +0000] [36807] [DEBUG] GET /sym.php
+[2024-11-23 17:29:23 +0000] [36807] [DEBUG] GET /lp.php
+[2024-11-23 17:29:24 +0000] [36805] [DEBUG] GET /Files/index.php
+[2024-11-23 17:29:24 +0000] [36805] [DEBUG] GET /wp-includes/ID3/
+[2024-11-23 17:29:24 +0000] [36805] [DEBUG] GET /yt.php
+[2024-11-23 17:29:24 +0000] [36805] [DEBUG] GET /wp-conflg.php
+[2024-11-23 17:29:24 +0000] [36805] [DEBUG] GET /x/index.php
+[2024-11-23 17:29:25 +0000] [36805] [DEBUG] GET /hehehehe.php
+[2024-11-23 17:29:25 +0000] [36805] [DEBUG] GET /.github/default.php
+[2024-11-23 17:29:25 +0000] [36805] [DEBUG] GET /default.php
+[2024-11-23 17:29:25 +0000] [36805] [DEBUG] GET /bn.php
+[2024-11-23 17:29:25 +0000] [36807] [DEBUG] GET /wordpress/update/wpupex.php
+[2024-11-23 17:29:26 +0000] [36804] [DEBUG] GET /plugin.php
+[2024-11-23 17:29:26 +0000] [36804] [DEBUG] GET /wp-content/plugins/seoplugins/mar.php
+[2024-11-23 17:29:26 +0000] [36804] [DEBUG] GET /ini.php
+[2024-11-23 17:29:26 +0000] [36804] [DEBUG] GET /wp-includes/rest-api/about.php
+[2024-11-23 17:29:26 +0000] [36804] [DEBUG] GET /shell.php
+[2024-11-23 17:29:27 +0000] [36804] [DEBUG] GET /aa.php
+[2024-11-23 17:29:27 +0000] [36804] [DEBUG] GET /wp-content/plugins/revslider/includes/external/page/index.php
+[2024-11-23 17:29:27 +0000] [36804] [DEBUG] GET /wp-admin/includes/classwithtostring.php
+[2024-11-23 17:29:27 +0000] [36804] [DEBUG] GET /wp-includes/ID3/about.php/wp-content/x/index.php
+[2024-11-23 17:29:27 +0000] [36804] [DEBUG] GET /wpn.php
+[2024-11-23 17:29:28 +0000] [36804] [DEBUG] GET /wp-admin/css/colors/eew.php
+[2024-11-23 17:29:28 +0000] [36804] [DEBUG] GET /wp-admin/js/widgets/about.php
+[2024-11-23 17:29:28 +0000] [36805] [DEBUG] GET /wp-includes/rk2.php
+[2024-11-23 17:29:28 +0000] [36804] [DEBUG] GET /wp.php
+[2024-11-23 17:29:28 +0000] [36806] [DEBUG] GET /wp-content/themes/xc.php
+[2024-11-23 17:29:29 +0000] [36805] [DEBUG] GET /baxa1.phP7
+[2024-11-23 17:29:29 +0000] [36805] [DEBUG] GET /av.php
+[2024-11-23 17:29:29 +0000] [36804] [DEBUG] GET /network.php
+[2024-11-23 17:29:29 +0000] [36804] [DEBUG] GET /wso.php
+[2024-11-23 17:29:30 +0000] [36804] [DEBUG] GET /wp-content/upgrade/index.php
+[2024-11-23 17:29:30 +0000] [36804] [DEBUG] GET /wp-2019.php
+[2024-11-23 17:29:30 +0000] [36804] [DEBUG] GET /wp-includes/widgets/about.php
+[2024-11-23 17:29:30 +0000] [36804] [DEBUG] GET /wp-content/Files/index.php
+[2024-11-23 17:29:31 +0000] [36804] [DEBUG] GET /vv.php
+[2024-11-23 17:29:31 +0000] [36804] [DEBUG] GET /wp-includes/style-engine/about.php
+[2024-11-23 17:29:31 +0000] [36804] [DEBUG] GET /wp-user.php
+[2024-11-23 17:29:31 +0000] [36804] [DEBUG] GET /wp-signup.php
+[2024-11-23 17:29:31 +0000] [36806] [DEBUG] GET /.well-known/acme-challenge/cloud.php
+[2024-11-23 17:29:32 +0000] [36806] [DEBUG] GET /assets/css/403.php
+[2024-11-23 17:29:32 +0000] [36806] [DEBUG] GET /error.php
+[2024-11-23 17:29:32 +0000] [36808] [DEBUG] GET /ff.php
+[2024-11-23 17:29:32 +0000] [36804] [DEBUG] GET /.well-known/pki-validation/moon.php
+[2024-11-23 17:29:32 +0000] [36804] [DEBUG] GET /wp-content/admin.php
+[2024-11-23 17:29:33 +0000] [36806] [DEBUG] GET /credits.php
+[2024-11-23 17:29:33 +0000] [36806] [DEBUG] GET /wp-content/plugins/dummyyummy/wp-signup.php
+[2024-11-23 17:29:33 +0000] [36804] [DEBUG] GET /wp-includes/js/about.php
+[2024-11-23 17:29:33 +0000] [36804] [DEBUG] GET /about.php
+[2024-11-23 17:29:33 +0000] [36806] [DEBUG] GET /wp-includes/.qiodetme.php
+[2024-11-23 17:29:34 +0000] [36804] [DEBUG] GET /wp-admin/maint/flower.php
+[2024-11-23 17:29:34 +0000] [36804] [DEBUG] GET /wp-includes/admin.php
+[2024-11-23 17:29:34 +0000] [36804] [DEBUG] GET /wp-tinymce.php
+[2024-11-23 17:29:34 +0000] [36804] [DEBUG] GET /wp-links.php
+[2024-11-23 17:29:34 +0000] [36804] [DEBUG] GET /css/index.php
+[2024-11-23 17:29:35 +0000] [36804] [DEBUG] GET /retu.php
+[2024-11-23 17:29:35 +0000] [36804] [DEBUG] GET /aw.php
+[2024-11-23 17:29:35 +0000] [36804] [DEBUG] GET /lv.php
+[2024-11-23 17:29:35 +0000] [36804] [DEBUG] GET /wp-includes/block-patterns/about.php
+[2024-11-23 17:29:35 +0000] [36804] [DEBUG] GET /dr.php
+[2024-11-23 17:29:36 +0000] [36808] [DEBUG] GET /randkeyword.php
+[2024-11-23 17:29:36 +0000] [36808] [DEBUG] GET /wp-admin/Files/index.php
+[2024-11-23 17:29:36 +0000] [36808] [DEBUG] GET /wp-includes/js/tinymce/skins/lightgray/img/index.php
+[2024-11-23 17:29:36 +0000] [36808] [DEBUG] GET /ay.php
+[2024-11-23 17:29:36 +0000] [36808] [DEBUG] GET /wordpress/wp-admin/wp-edit.php
+[2024-11-23 17:29:37 +0000] [36808] [DEBUG] GET /wp-includes/SimplePie/index.php
+[2024-11-23 17:29:37 +0000] [36808] [DEBUG] GET /wp-content/plugins/ioptimization/db.php
+[2024-11-23 17:29:37 +0000] [36804] [DEBUG] GET /wp-content/autoload_classmap.php
+[2024-11-23 17:29:37 +0000] [36808] [DEBUG] GET /wp-admin/network/about.php
+[2024-11-23 17:29:37 +0000] [36808] [DEBUG] GET /wp-admin/defaults.php
+[2024-11-23 17:29:38 +0000] [36808] [DEBUG] GET /mini.php
+[2024-11-23 17:29:38 +0000] [36808] [DEBUG] GET /yy.php
+[2024-11-23 17:29:38 +0000] [36808] [DEBUG] GET /.well-known/pki-validation/eew.php
+[2024-11-23 17:29:38 +0000] [36808] [DEBUG] GET /wp-includes/IXR/about.php
+[2024-11-23 17:29:38 +0000] [36808] [DEBUG] GET /log.php
+[2024-11-23 17:29:39 +0000] [36808] [DEBUG] GET /tr.php
+[2024-11-23 17:29:39 +0000] [36808] [DEBUG] GET /wp-content/themes/pridmag/db.php
+[2024-11-23 17:29:39 +0000] [36808] [DEBUG] GET /wp-includes/css/dist/test.php
+[2024-11-23 17:29:39 +0000] [36808] [DEBUG] GET /byp.php
+[2024-11-23 17:29:39 +0000] [36808] [DEBUG] GET /aq.php
+[2024-11-23 17:29:40 +0000] [36808] [DEBUG] GET /yu.php
+[2024-11-23 17:29:40 +0000] [36808] [DEBUG] GET /gt.php
+[2024-11-23 17:29:40 +0000] [36808] [DEBUG] GET /duck.php
+[2024-11-23 17:29:40 +0000] [36808] [DEBUG] GET /op.php
+[2024-11-23 17:29:40 +0000] [36808] [DEBUG] GET /l/index.php
+[2024-11-23 17:29:41 +0000] [36808] [DEBUG] GET /doc.php
+[2024-11-23 17:29:41 +0000] [36808] [DEBUG] GET /update/wpupex.php
+[2024-11-23 17:29:42 +0000] [36808] [DEBUG] GET /.well-known/
+[2024-11-23 17:29:42 +0000] [36808] [DEBUG] GET /.well-known/pki-validation/
+[2024-11-23 17:29:42 +0000] [36808] [DEBUG] GET /.well-known/acme-challenge/
+[2024-11-23 17:29:42 +0000] [36808] [DEBUG] GET /vendor/phpunit/phpunit/src/Util/PHP/
+[2024-11-23 17:29:43 +0000] [36808] [DEBUG] GET /wp-content/uploads/
+[2024-11-23 17:29:43 +0000] [36805] [DEBUG] GET /wp-content/themes/tflow/
+[2024-11-23 17:29:43 +0000] [36805] [DEBUG] GET /wp-admin/
+[2024-11-23 17:29:43 +0000] [36805] [DEBUG] GET /wordpress/wp-admin/includes
+[2024-11-23 17:29:43 +0000] [36805] [DEBUG] GET /wp-admin/js/
+[2024-11-23 17:29:44 +0000] [36805] [DEBUG] GET /ALFA_DATA/
+[2024-11-23 17:29:44 +0000] [36805] [DEBUG] GET /wp-content/upgrade/
+[2024-11-23 17:29:44 +0000] [36805] [DEBUG] GET /wp-admin/css/colors/
+[2024-11-23 17:29:44 +0000] [36805] [DEBUG] GET /wp-includes/css/
+[2024-11-23 17:29:44 +0000] [36805] [DEBUG] GET /wp-includes/ID3
+[2024-11-23 17:29:45 +0000] [36805] [DEBUG] GET /wp-includes/Requests/
+[2024-11-23 17:29:45 +0000] [36805] [DEBUG] GET /wp-includes/blocks/
+[2024-11-23 17:29:45 +0000] [36805] [DEBUG] GET /wp-includes/certificates/
+[2024-11-23 17:29:45 +0000] [36805] [DEBUG] GET /wp-includes/images/
+[2024-11-23 17:29:45 +0000] [36805] [DEBUG] GET /wp-admin/images/
+[2024-11-23 17:29:46 +0000] [36805] [DEBUG] GET /wp-admin/maint/
+[2024-11-23 17:29:46 +0000] [36808] [DEBUG] GET /wp-admin/meta/
+[2024-11-23 17:29:46 +0000] [36808] [DEBUG] GET /wp-admin/network/
+[2024-11-23 17:29:46 +0000] [36808] [DEBUG] GET /wp-admin/user/
+[2024-11-23 17:29:46 +0000] [36808] [DEBUG] GET /wp-content/uploads/ao_ccss/
+[2024-11-23 17:29:47 +0000] [36808] [DEBUG] GET /wp-content/uploads/2021/
+[2024-11-23 17:29:47 +0000] [36808] [DEBUG] GET /wp-content/plugins/elementor/
+[2024-11-23 17:29:47 +0000] [36808] [DEBUG] GET /wp-content/mu-plugins/
+[2024-11-23 17:29:47 +0000] [36808] [DEBUG] GET /upload/image/
+[2024-11-23 17:29:47 +0000] [36808] [DEBUG] GET /wordpress/wp-content/uploads/
+[2024-11-23 17:29:48 +0000] [36808] [DEBUG] GET /wordpress/wp-includes/
+[2024-11-23 17:29:48 +0000] [36808] [DEBUG] GET /blog/wp-includes/
+[2024-11-23 17:29:48 +0000] [36808] [DEBUG] GET /sites/default/files/
+[2024-11-23 17:29:48 +0000] [36808] [DEBUG] GET /admin/controller/extension/extension/
+[2024-11-23 17:29:48 +0000] [36808] [DEBUG] GET /admin/editor/
+[2024-11-23 17:29:49 +0000] [36808] [DEBUG] GET /admin/images/slider/
+[2024-11-23 17:29:49 +0000] [36808] [DEBUG] GET /admin/tmp/
+[2024-11-23 17:29:49 +0000] [36808] [DEBUG] GET /admin/uploads/
+[2024-11-23 17:29:49 +0000] [36805] [DEBUG] GET /Admin/uploads/
+[2024-11-23 17:29:49 +0000] [36808] [DEBUG] GET /admin/uploads/images/
+[2024-11-23 17:29:50 +0000] [36805] [DEBUG] GET /administrator/
+[2024-11-23 17:29:50 +0000] [36805] [DEBUG] GET /ALFA_DATA/alfacgiapi/
+[2024-11-23 17:29:50 +0000] [36805] [DEBUG] GET /assets/
+[2024-11-23 17:29:50 +0000] [36805] [DEBUG] GET /cgi-bin/
+[2024-11-23 17:29:50 +0000] [36805] [DEBUG] GET /components/
+[2024-11-23 17:29:51 +0000] [36805] [DEBUG] GET /home/
+[2024-11-23 17:29:51 +0000] [36805] [DEBUG] GET /include/
+[2024-11-23 17:29:51 +0000] [36808] [DEBUG] GET /modules/
+[2024-11-23 17:29:51 +0000] [36808] [DEBUG] GET /modules/mod_simplefileuploadv1.3/elements/
+[2024-11-23 17:29:51 +0000] [36805] [DEBUG] GET /mt/
+[2024-11-23 17:29:52 +0000] [36805] [DEBUG] GET /site/wp-includes/
+[2024-11-23 17:29:52 +0000] [36805] [DEBUG] GET /tmps/
+[2024-11-23 17:29:52 +0000] [36805] [DEBUG] GET /wordpress/wp-admin/includes/wp-admin/js/
+[2024-11-23 17:29:52 +0000] [36808] [DEBUG] GET /wp-admin/css/colors/ectoplasm/
+[2024-11-23 17:29:52 +0000] [36804] [DEBUG] GET /wp-admin/css/colors/light/
+[2024-11-23 17:29:53 +0000] [36808] [DEBUG] GET /wp-admin/css/colors/midnight/
+[2024-11-23 17:29:53 +0000] [36804] [DEBUG] GET /wp-admin/css/colors/modern/
+[2024-11-23 17:29:53 +0000] [36804] [DEBUG] GET /wp-admin/css/colors/ocean/
+[2024-11-23 17:29:53 +0000] [36804] [DEBUG] GET /wp-admin/css/colors/sunrise/
+[2024-11-23 17:29:53 +0000] [36804] [DEBUG] GET /wp-admin/js/widgets/
+[2024-11-23 17:29:54 +0000] [36804] [DEBUG] GET /wp-content/languages/
+[2024-11-23 17:29:54 +0000] [36804] [DEBUG] GET /wp-content/uploads/2022/
+[2024-11-23 17:29:54 +0000] [36804] [DEBUG] GET /wp-content/uploads/2023/
+[2024-11-23 17:29:54 +0000] [36804] [DEBUG] GET /wp-content/uploads/2024/
+[2024-11-23 17:29:54 +0000] [36804] [DEBUG] GET /wp-includes/wp-includes/
+[2024-11-23 17:29:55 +0000] [36804] [DEBUG] GET /wp-includes/css/dist/
+[2024-11-23 17:29:55 +0000] [36804] [DEBUG] GET /wp-includes/ID3/
+[2024-11-23 17:29:55 +0000] [36804] [DEBUG] GET /wp-includes/ID3/wp-includes/IXR/
+[2024-11-23 17:29:55 +0000] [36804] [DEBUG] GET /wp-includes/images/crystal/
+[2024-11-23 17:29:55 +0000] [36804] [DEBUG] GET /wp-includes/images/media/
+[2024-11-23 17:29:56 +0000] [36804] [DEBUG] GET /wp-includes/images/smilies/
+[2024-11-23 17:29:56 +0000] [36804] [DEBUG] GET /wp-includes/images/wlw/
+[2024-11-23 17:29:56 +0000] [36804] [DEBUG] GET /wp-includes/js/codemirror/
+[2024-11-23 17:29:56 +0000] [36804] [DEBUG] GET /wp-includes/js/plupload/
+[2024-11-23 17:29:56 +0000] [36804] [DEBUG] GET /wp-includes/PHPMailer/
+[2024-11-23 17:29:57 +0000] [36804] [DEBUG] GET /wp-includes/sitemaps/
+[2024-11-23 17:29:57 +0000] [36804] [DEBUG] GET /wp-includes/sitemaps/providers/
+[2024-11-23 17:29:57 +0000] [36804] [DEBUG] GET /cache-wordpress/
+[2024-11-23 17:29:57 +0000] [36804] [DEBUG] GET /cakil/
+[2024-11-23 17:29:57 +0000] [36805] [DEBUG] GET /cekidot/
+[2024-11-23 17:29:58 +0000] [36804] [DEBUG] GET /ubh/
+[2024-11-23 17:29:58 +0000] [36804] [DEBUG] GET /wp-content/ALFA_DATA/alfacgiapi/
+[2024-11-23 17:29:58 +0000] [36804] [DEBUG] GET /wp-content/plugins/linkpreview/
+[2024-11-23 17:29:58 +0000] [36804] [DEBUG] GET /wp-content/plugins/aryabot/
+[2024-11-23 17:29:58 +0000] [36804] [DEBUG] GET /wp-content/plugins/BrutalShell/
+[2024-11-23 17:29:59 +0000] [36805] [DEBUG] GET /wp-content/plugins/cache-wordpress/
+[2024-11-23 17:29:59 +0000] [36807] [DEBUG] GET /wp-content/plugins/cakil/
+[2024-11-23 17:29:59 +0000] [36807] [DEBUG] GET /wp-content/plugins/cekidot/
+[2024-11-23 17:29:59 +0000] [36807] [DEBUG] GET /wp-content/plugins/db/
+[2024-11-23 17:29:59 +0000] [36807] [DEBUG] GET /wp-content/plugins/home/
+[2024-11-23 17:30:00 +0000] [36807] [DEBUG] GET /wp-content/plugins/limit/
+[2024-11-23 17:30:00 +0000] [36804] [DEBUG] GET /wp-content/plugins/owfsmac/
+[2024-11-23 17:30:00 +0000] [36807] [DEBUG] GET /wp-content/plugins/prenota/
+[2024-11-23 17:30:00 +0000] [36806] [DEBUG] GET /wp-content/plugins/random/
+[2024-11-23 17:30:01 +0000] [36806] [DEBUG] GET /wp-content/plugins/ubh/
+[2024-11-23 17:30:01 +0000] [36806] [DEBUG] GET /wp-content/plugins/Uwogh-Segs/
+[2024-11-23 17:30:01 +0000] [36806] [DEBUG] GET /wp-content/plugins/wp-diambar/includes/
+[2024-11-23 17:30:01 +0000] [36806] [DEBUG] GET /wp-content/plugins/wp-freeform/
+[2024-11-23 17:30:02 +0000] [36806] [DEBUG] GET /wp-content/plugins/wp-hps/sh/
+[2024-11-23 17:30:02 +0000] [36806] [DEBUG] GET /wp-content/plugins/wpeazvp/
+[2024-11-23 17:30:02 +0000] [36806] [DEBUG] GET /wp-content/plugins/zaen/includes/
+[2024-11-23 17:30:02 +0000] [36804] [DEBUG] GET /wp-content/uploads/revslider/templates/immersion-photography/
+[2024-11-23 17:30:03 +0000] [36804] [DEBUG] GET /patriotic/wp-includes/images/smilies/
+[2024-11-23 17:30:03 +0000] [36804] [DEBUG] GET /wp-includes/js/tinymce/plugins/fullscreen/
+[2024-11-23 17:30:03 +0000] [36804] [DEBUG] GET /wp-content/plugins/core-stab/
+[2024-11-23 17:30:03 +0000] [36804] [DEBUG] GET /wp-content/themes/alera/
+[2024-11-23 17:30:03 +0000] [36804] [DEBUG] GET /wp-content/themes/rishi/
+[2024-11-23 17:30:04 +0000] [36806] [DEBUG] GET /wp-content/themes/sketch/
+[2024-11-23 17:30:04 +0000] [36806] [DEBUG] GET /wp-content/themes/thuoc-nam/
+[2024-11-23 17:30:04 +0000] [36808] [DEBUG] GET /wp-content/themes/twentyfive/
+[2024-11-23 17:30:04 +0000] [36806] [DEBUG] GET /wp-content/themes/wp-pridmag/
+[2024-11-23 17:30:04 +0000] [36805] [DEBUG] GET /wp-content/themes/pridmag/
+[2024-11-23 17:30:05 +0000] [36805] [DEBUG] GET /wp-content/themes/zakra/
+[2024-11-23 17:30:05 +0000] [36805] [DEBUG] GET /wp-content/uploads/simple-file-list/
+[2024-11-23 17:30:05 +0000] [36805] [DEBUG] GET /admin/upload/
+[2024-11-23 17:30:05 +0000] [36805] [DEBUG] GET /wp-admin/css/colors/blue/
+[2024-11-23 17:30:05 +0000] [36805] [DEBUG] GET /up/.well-known/
+[2024-11-23 17:30:06 +0000] [36805] [DEBUG] GET /wp-content/plugins/apikey/
+[2024-11-23 17:30:06 +0000] [36807] [DEBUG] GET /wp-content/
+[2024-11-23 17:30:06 +0000] [36807] [DEBUG] GET /wp-admin/includes/
+[2024-11-23 17:30:06 +0000] [36807] [DEBUG] GET /images/
+[2024-11-23 17:30:06 +0000] [36807] [DEBUG] GET /css/
+[2024-11-23 17:30:07 +0000] [36807] [DEBUG] GET /wp-admin/css/
+[2024-11-23 17:30:07 +0000] [36807] [DEBUG] GET /wp-includes/js/
+[2024-11-23 17:30:07 +0000] [36807] [DEBUG] GET /wp-includes/SimplePie/XML/
+[2024-11-23 17:30:07 +0000] [36807] [DEBUG] GET /wp-content/uploads/wpr-addons/forms/
+[2024-11-23 17:30:07 +0000] [36807] [DEBUG] GET /wp-content/plugins/WordPressCore/
+[2024-11-23 17:30:08 +0000] [36807] [DEBUG] GET /wordpress/wp-admin/includes/
+[2024-11-23 17:30:08 +0000] [36805] [DEBUG] GET /wp-includes/
+[2024-11-23 17:30:08 +0000] [36805] [DEBUG] GET /wp-includes/IXR/
+[2024-11-23 17:30:08 +0000] [36805] [DEBUG] GET /wp-includes/SimplePie/
+[2024-11-23 17:30:09 +0000] [36805] [DEBUG] GET /wp-includes/Text/
+[2024-11-23 17:30:09 +0000] [36805] [DEBUG] GET /wp-includes/Text/Diff/Renderer/
+[2024-11-23 17:30:09 +0000] [36805] [DEBUG] GET /wp-includes/customize/
+[2024-11-23 17:30:09 +0000] [36806] [DEBUG] GET /wp-includes/fonts/
+[2024-11-23 17:30:09 +0000] [36804] [DEBUG] GET /wp-includes/pomo/
+[2024-11-23 17:30:10 +0000] [36804] [DEBUG] GET /wp-includes/rest-api/
+[2024-11-23 17:30:10 +0000] [36804] [DEBUG] GET /wp-includes/widgets/
+[2024-11-23 17:30:10 +0000] [36804] [DEBUG] GET /wp-content/plugins/
+[2024-11-23 17:30:10 +0000] [36804] [DEBUG] GET /wp-content/plugins/pwnd/
+[2024-11-23 17:30:10 +0000] [36804] [DEBUG] GET /about/
+[2024-11-23 17:30:11 +0000] [36804] [DEBUG] GET /plugins/jquery.filer/uploads/
+[2024-11-23 17:30:11 +0000] [36804] [DEBUG] GET /wp-content/plugins/dummyyummy/
+[2024-11-23 17:30:11 +0000] [36806] [DEBUG] GET /wp-content/themes/seotheme/
+[2024-11-23 17:30:11 +0000] [36804] [DEBUG] GET /wp-content/plugins/core/
+[2024-11-23 17:30:11 +0000] [36804] [DEBUG] GET /wp-content/plugins/revslider/includes/external/page/
+[2024-11-23 17:30:12 +0000] [36804] [DEBUG] GET /wp-content/plugins/Cache/
+[2024-11-23 17:30:12 +0000] [36804] [DEBUG] GET /wp-content/themes/
+[2024-11-23 17:30:12 +0000] [36804] [DEBUG] GET /wp-includes/theme-compat/
+[2024-11-23 17:30:12 +0000] [36806] [DEBUG] GET /index/
+[2024-11-23 17:30:12 +0000] [36805] [DEBUG] GET /wp-content/plugins/seoplugins/
+[2024-11-23 17:30:13 +0000] [36805] [DEBUG] GET /fonts/
+[2024-11-23 17:30:13 +0000] [36805] [DEBUG] GET /js/
+[2024-11-23 17:30:13 +0000] [36805] [DEBUG] GET /routes/
+[2024-11-23 17:30:13 +0000] [36805] [DEBUG] GET /uploads/
+[2024-11-23 17:30:13 +0000] [36805] [DEBUG] GET /templates/beez3/
+[2024-11-23 17:30:14 +0000] [36805] [DEBUG] GET /wp-content/themes/digital-download/
+[2024-11-23 17:30:14 +0000] [36805] [DEBUG] GET /wp-content/plugins/wp-theme-editor/
+[2024-11-23 17:30:14 +0000] [36805] [DEBUG] GET /templates/atomic/
+[2024-11-23 17:30:14 +0000] [36805] [DEBUG] GET /wp-content/plugins/seoo/
+[2024-11-23 17:30:15 +0000] [36805] [DEBUG] GET /wp-includes/assets/
+[2024-11-23 17:30:15 +0000] [36805] [DEBUG] GET /wp-includes/js/jcrop/
+[2024-11-23 17:30:15 +0000] [36805] [DEBUG] GET /wp-content/plugins/google-seo-rank/
+[2024-11-23 17:30:15 +0000] [36805] [DEBUG] GET /wp-content/plugins/erin/
+[2024-11-23 17:30:15 +0000] [36805] [DEBUG] GET /wp-content/maintenance/
+[2024-11-23 17:30:16 +0000] [36806] [DEBUG] GET /wp-content/x/
+[2024-11-23 17:30:16 +0000] [36806] [DEBUG] GET /wp-content/plugins/seooyanz/
+[2024-11-23 17:30:16 +0000] [36806] [DEBUG] GET /wp-content/themes/sky-pro/
+[2024-11-23 17:30:16 +0000] [36806] [DEBUG] GET /wp-content/plugins/cp-pro/
+[2024-11-23 17:30:16 +0000] [36806] [DEBUG] GET /ALFA_DATA/alfacgiapi/perl.alfa
+[2024-11-23 17:30:17 +0000] [36806] [DEBUG] GET /wp-content/uploads/typehub/custom/
+[2024-11-23 17:30:17 +0000] [36806] [DEBUG] GET /wp-content/plugins/rencontre/inc/photo_import/
+[2024-11-23 17:30:17 +0000] [36806] [DEBUG] GET /wp-content/plugins/backup-backup/includes/
+[2024-11-23 17:30:17 +0000] [36806] [DEBUG] GET /wp-content/plugins/pwnd-1/
+[2024-11-23 17:30:17 +0000] [36807] [DEBUG] GET /.tmb/
+[2024-11-23 17:30:18 +0000] [36806] [DEBUG] GET /wp-content/plugins/fix/
+[2024-11-23 17:30:18 +0000] [36806] [DEBUG] GET /includes/
+[2024-11-23 17:30:18 +0000] [36806] [DEBUG] GET /themes/pridmag/
+[2024-11-23 17:32:12 +0000] [36806] [DEBUG] GET /
+[2024-11-23 17:32:15 +0000] [36806] [DEBUG] GET /
+[2024-11-23 17:42:02 +0000] [36807] [DEBUG] GET /
+[2024-11-23 17:42:07 +0000] [36807] [DEBUG] GET /
+[2024-11-23 17:45:22 +0000] [36807] [DEBUG] GET /
+[2024-11-23 17:45:28 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 18:00:37 +0000] [36807] [DEBUG] GET /
+[2024-11-23 18:00:41 +0000] [36808] [DEBUG] GET /
+[2024-11-23 18:00:52 +0000] [36808] [DEBUG] GET /.env
+[2024-11-23 18:00:52 +0000] [36808] [DEBUG] POST /
+[2024-11-23 18:04:31 +0000] [36808] [DEBUG] GET /
+[2024-11-23 18:22:06 +0000] [36805] [DEBUG] GET /login.asp
+[2024-11-23 18:26:49 +0000] [36808] [DEBUG] GET /
+[2024-11-23 18:53:53 +0000] [36808] [DEBUG] POST /boaform/admin/formLogin
+[2024-11-23 18:54:52 +0000] [36806] [DEBUG] GET /
+[2024-11-23 18:59:05 +0000] [36808] [DEBUG] GET /online-course-seo-for-gambling
+[2024-11-23 19:12:00 +0000] [36804] [DEBUG] GET /wp-login.php
+[2024-11-23 19:14:22 +0000] [36808] [DEBUG] GET /
+[2024-11-23 19:18:17 +0000] [36804] [DEBUG] POST /
+[2024-11-23 19:18:34 +0000] [36805] [DEBUG] GET /
+[2024-11-23 19:18:34 +0000] [36805] [DEBUG] GET /
+[2024-11-23 19:18:34 +0000] [36808] [DEBUG] GET /
+[2024-11-23 19:28:57 +0000] [36806] [DEBUG] GET /downloadplus.php
+[2024-11-23 19:28:57 +0000] [36806] [DEBUG] GET /downloadplus.php
+[2024-11-23 19:28:57 +0000] [36806] [DEBUG] GET /
+[2024-11-23 19:43:09 +0000] [36806] [DEBUG] GET /
+[2024-11-23 19:48:59 +0000] [36805] [DEBUG] GET /
+[2024-11-23 20:00:08 +0000] [36805] [DEBUG] GET /downloadplus.php
+[2024-11-23 20:03:02 +0000] [36804] [DEBUG] GET /
+[2024-11-23 20:14:10 +0000] [36807] [DEBUG] GET /
+[2024-11-23 20:34:40 +0000] [36808] [DEBUG] GET /
+[2024-11-23 21:09:42 +0000] [36806] [DEBUG] GET /
+[2024-11-23 21:11:28 +0000] [36805] [DEBUG] GET /
+[2024-11-23 21:14:10 +0000] [36804] [DEBUG] GET /
+[2024-11-23 21:16:53 +0000] [36806] [DEBUG] GET /wp-json/
+[2024-11-23 21:17:01 +0000] [36806] [DEBUG] GET /
+[2024-11-23 21:18:19 +0000] [36806] [DEBUG] GET /.env
+[2024-11-23 21:20:05 +0000] [36806] [DEBUG] GET /robots.txt
+[2024-11-23 21:24:35 +0000] [36805] [DEBUG] GET /
+[2024-11-23 21:25:07 +0000] [36806] [DEBUG] GET /photorama.php
+[2024-11-23 21:28:39 +0000] [36806] [DEBUG] GET /
+[2024-11-23 21:29:07 +0000] [36808] [DEBUG] GET /downloadplus.php
+[2024-11-23 21:33:07 +0000] [36806] [DEBUG] GET /downloadplus.php
+[2024-11-23 21:37:07 +0000] [36804] [DEBUG] GET /downloadplus.php
+[2024-11-23 21:41:07 +0000] [36807] [DEBUG] GET /
+[2024-11-23 21:41:08 +0000] [36808] [DEBUG] GET /cevrimici-kurs-turkiye-de-kumar-casino
+[2024-11-23 21:45:10 +0000] [36808] [DEBUG] GET /robots.txt
+[2024-11-23 21:47:31 +0000] [36808] [DEBUG] GET /
+[2024-11-23 21:49:08 +0000] [36804] [DEBUG] GET /robots.txt
+[2024-11-23 21:49:34 +0000] [36805] [DEBUG] GET /
+[2024-11-23 21:58:25 +0000] [36806] [DEBUG] GET /
+[2024-11-23 22:07:28 +0000] [36808] [DEBUG] GET /
+[2024-11-23 22:13:31 +0000] [36806] [DEBUG] GET /
+[2024-11-23 22:28:12 +0000] [36807] [DEBUG] HEAD /
+[2024-11-23 22:28:12 +0000] [36807] [DEBUG] Ignoring EPIPE
+[2024-11-23 22:28:20 +0000] [36807] [DEBUG] GET /
+[2024-11-23 22:28:20 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-23 22:28:22 +0000] [36807] [DEBUG] GET /ads.txt
+[2024-11-23 22:28:22 +0000] [36805] [DEBUG] GET /app-ads.txt
+[2024-11-23 22:28:22 +0000] [36806] [DEBUG] GET /sellers.json
+[2024-11-23 22:35:09 +0000] [36804] [DEBUG] HEAD /
+[2024-11-23 22:35:09 +0000] [36804] [DEBUG] Ignoring EPIPE
+[2024-11-23 22:35:10 +0000] [36804] [DEBUG] GET /
+[2024-11-23 22:35:11 +0000] [36804] [DEBUG] GET /favicon.ico
+[2024-11-23 22:35:11 +0000] [36804] [DEBUG] GET /ads.txt
+[2024-11-23 22:35:11 +0000] [36804] [DEBUG] GET /app-ads.txt
+[2024-11-23 22:35:11 +0000] [36804] [DEBUG] GET /sellers.json
+[2024-11-23 22:38:54 +0000] [36807] [DEBUG] GET /
+[2024-11-23 23:03:58 +0000] [36807] [DEBUG] GET /
+[2024-11-23 23:05:09 +0000] [36805] [DEBUG] GET /
+[2024-11-23 23:11:54 +0000] [36806] [DEBUG] GET /
+[2024-11-23 23:16:14 +0000] [36808] [DEBUG] GET /
+[2024-11-23 23:36:19 +0000] [36807] [DEBUG] GET /
+[2024-11-23 23:37:25 +0000] [36807] [DEBUG] GET /
+[2024-11-23 23:37:54 +0000] [36807] [DEBUG] GET /
+[2024-11-23 23:44:43 +0000] [36805] [DEBUG] GET /
+[2024-11-24 00:04:13 +0000] [36804] [DEBUG] GET /
+[2024-11-24 00:15:14 +0000] [36804] [DEBUG] GET /
+[2024-11-24 00:18:29 +0000] [36807] [DEBUG] GET /cgi-bin/index.cgi
+[2024-11-24 00:41:11 +0000] [36805] [DEBUG] GET /
+[2024-11-24 00:46:35 +0000] [36807] [DEBUG] GET /.env
+[2024-11-24 00:46:35 +0000] [36805] [DEBUG] GET /default/.env
+[2024-11-24 00:46:35 +0000] [36805] [DEBUG] GET /delivery/.env
+[2024-11-24 00:46:37 +0000] [36805] [DEBUG] GET /dependencies/.env
+[2024-11-24 00:46:37 +0000] [36805] [DEBUG] GET /deploy/.env
+[2024-11-24 00:46:38 +0000] [36805] [DEBUG] GET /deployment/.env
+[2024-11-24 00:46:38 +0000] [36805] [DEBUG] GET /developerslv/.env
+[2024-11-24 00:46:38 +0000] [36807] [DEBUG] GET /directories/.env
+[2024-11-24 00:46:39 +0000] [36807] [DEBUG] GET /django/.env
+[2024-11-24 00:46:39 +0000] [36806] [DEBUG] GET /downloads/.env
+[2024-11-24 00:46:40 +0000] [36804] [DEBUG] GET /nginx/.env
+[2024-11-24 00:46:40 +0000] [36808] [DEBUG] GET /robots/.env
+[2024-11-24 00:46:40 +0000] [36808] [DEBUG] GET /sample.env
+[2024-11-24 00:46:41 +0000] [36808] [DEBUG] GET /search/.env
+[2024-11-24 00:46:41 +0000] [36808] [DEBUG] GET /sources/.env
+[2024-11-24 00:46:42 +0000] [36808] [DEBUG] GET /twilio.env
+[2024-11-24 00:46:43 +0000] [36808] [DEBUG] GET /user/.env
+[2024-11-24 00:46:43 +0000] [36808] [DEBUG] GET /phpinfo/.env
+[2024-11-24 00:46:44 +0000] [36808] [DEBUG] GET /pictures/.env
+[2024-11-24 00:46:44 +0000] [36808] [DEBUG] GET /option/.env
+[2024-11-24 00:46:45 +0000] [36806] [DEBUG] GET /options/.env
+[2024-11-24 00:46:46 +0000] [36806] [DEBUG] GET /portal/.env
+[2024-11-24 00:46:46 +0000] [36805] [DEBUG] GET /route/.env
+[2024-11-24 00:46:47 +0000] [36807] [DEBUG] GET /routes/.env
+[2024-11-24 00:46:47 +0000] [36807] [DEBUG] GET /office/.env
+[2024-11-24 00:46:47 +0000] [36807] [DEBUG] GET /wp-admin/.env
+[2024-11-24 00:46:49 +0000] [36805] [DEBUG] GET /upfiles/.env
+[2024-11-24 00:46:50 +0000] [36805] [DEBUG] GET /view/.env
+[2024-11-24 00:46:50 +0000] [36805] [DEBUG] GET /views/.env
+[2024-11-24 00:46:51 +0000] [36805] [DEBUG] GET /security/.env
+[2024-11-24 00:46:51 +0000] [36805] [DEBUG] GET /samples/.env
+[2024-11-24 00:46:51 +0000] [36805] [DEBUG] GET /sandbox/.env
+[2024-11-24 00:46:52 +0000] [36805] [DEBUG] GET /results/.env
+[2024-11-24 00:46:52 +0000] [36805] [DEBUG] GET /process/.env
+[2024-11-24 00:46:55 +0000] [36805] [DEBUG] GET /products/.env
+[2024-11-24 00:46:55 +0000] [36805] [DEBUG] GET /project/.env
+[2024-11-24 00:46:55 +0000] [36805] [DEBUG] GET /import/.env
+[2024-11-24 00:46:56 +0000] [36805] [DEBUG] GET /include/.env
+[2024-11-24 00:46:57 +0000] [36805] [DEBUG] GET /install/.env
+[2024-11-24 00:46:57 +0000] [36805] [DEBUG] GET /resources/.env
+[2024-11-24 01:08:13 +0000] [36805] [DEBUG] GET /
+[2024-11-24 01:09:33 +0000] [36805] [DEBUG] GET /cgi-bin/index.html
+[2024-11-24 01:29:17 +0000] [36807] [DEBUG] GET /
+[2024-11-24 02:08:17 +0000] [36806] [DEBUG] GET /
+[2024-11-24 02:14:07 +0000] [36804] [DEBUG] GET /
+[2024-11-24 02:18:38 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:23:15 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:23:51 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:26:29 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:28:30 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:32:06 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:50:17 +0000] [36807] [DEBUG] GET /
+[2024-11-24 02:52:35 +0000] [36807] [DEBUG] GET /
+[2024-11-24 02:55:10 +0000] [36808] [DEBUG] GET /
+[2024-11-24 02:55:10 +0000] [36807] [DEBUG] GET /favicon.ico
+[2024-11-24 02:57:09 +0000] [36806] [DEBUG] GET /
+[2024-11-24 02:57:10 +0000] [36806] [DEBUG] GET /favicon.ico
+[2024-11-24 03:04:54 +0000] [36805] [DEBUG] GET /forum/wp-login.php
+[2024-11-24 03:38:41 +0000] [36802] [INFO] Handling signal: term
+Traceback (most recent call last):
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 224, in run
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 257, in handle_term
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/footballproj/.venv/bin/gunicorn", line 8, in <module>
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/wsgiapp.py", line 67, in run
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/base.py", line 236, in run
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/app/base.py", line 72, in run
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 227, in run
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 342, in halt
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/arbiter.py", line 385, in stop
+  File "/root/footballproj/.venv/lib/python3.12/site-packages/gunicorn/sock.py", line 213, in close_sockets
+FileNotFoundError: [Errno 2] No such file or directory: '/root/footballproj/run/gunicorn.sock'
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/root/footballproj/.venv
+++ VIRTUAL_ENV=/root/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/root/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found
++ export NAME=footballproj
++ NAME=footballproj
++ export DJANGODIR=/home/footballproj
++ DJANGODIR=/home/footballproj
++ export SOCKFILE=/home/footballproj/run/gunicorn.sock
++ SOCKFILE=/home/footballproj/run/gunicorn.sock
++ export USER=footballproj
++ USER=footballproj
++ export GROUP=footballproj
++ GROUP=footballproj
++ export NUM_WORKERS=5
++ NUM_WORKERS=5
++ export DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ DJANGO_SETTINGS_MODULE=footballproj.settingsprod
++ export DJANGO_WSGI_MODULE=footballproj.wsgi
++ DJANGO_WSGI_MODULE=footballproj.wsgi
++ export TIMEOUT=120
++ TIMEOUT=120
++ cd /home/footballproj
++ source .venv/bin/activate
+++ deactivate nondestructive
+++ '[' -n '' ']'
+++ '[' -n '' ']'
+++ hash -r
+++ '[' -n '' ']'
+++ unset VIRTUAL_ENV
+++ unset VIRTUAL_ENV_PROMPT
+++ '[' '!' nondestructive = nondestructive ']'
+++ '[' linux-gnu = cygwin ']'
+++ '[' linux-gnu = msys ']'
+++ export VIRTUAL_ENV=/home/footballproj/.venv
+++ VIRTUAL_ENV=/home/footballproj/.venv
+++ _OLD_VIRTUAL_PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ PATH=/home/footballproj/.venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/snap/bin
+++ export PATH
+++ '[' -n '' ']'
+++ '[' -z '' ']'
+++ _OLD_VIRTUAL_PS1=
+++ PS1='(.venv) '
+++ export PS1
+++ VIRTUAL_ENV_PROMPT='(.venv) '
+++ export VIRTUAL_ENV_PROMPT
+++ hash -r
++ export PYTHONPATH=/home/footballproj:
++ PYTHONPATH=/home/footballproj:
+++ dirname /home/footballproj/run/gunicorn.sock
++ RUNDIR=/home/footballproj/run
++ test -d /home/footballproj/run
++ exec .venv/bin/gunicorn footballproj.wsgi:application --name footballproj --workers 5 --timeout 120 --user=footballproj --group=footballproj --bind unix:/home/footballproj/run/gunicorn.sock --log-level=debug --log-file=-
+/home/footballproj/.venv/bin/gunicorn_start: line 20: /home/footballproj/.venv/bin/gunicorn: cannot execute: required file not found

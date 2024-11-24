@@ -1,8 +1,8 @@
 #!/bin/bash -x
 
 export NAME='footballproj'
-export DJANGODIR=/root/footballproj
-export SOCKFILE=/root/footballproj/run/gunicorn.sock
+export DJANGODIR=/home/footballproj
+export SOCKFILE=/home/footballproj/run/gunicorn.sock
 export USER=footballproj
 export GROUP=footballproj
 export NUM_WORKERS=5
@@ -18,10 +18,11 @@ RUNDIR=$(dirname $SOCKFILE)
 test -d $RUNDIR || mkdir -p $RUNDIR
 
 exec .venv/bin/gunicorn ${DJANGO_WSGI_MODULE}:application \
-	--name $NAME \
-	--workers $NUM_WORKERS \
-	--timeout $TIMEOUT \
-	--user=$USER --group=$GROUP \
-	--bind unix:$SOCKFILE \
-	--log-level=debug \
-	--log-file=-
+        --name $NAME \
+        --workers $NUM_WORKERS \
+        --timeout $TIMEOUT \
+        --user=$USER --group=$GROUP \
+        --bind=unix:$SOCKFILE \
+        --log-level=debug \
+        --log-file=-
+
