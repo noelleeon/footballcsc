@@ -1,0 +1,4 @@
+#!/home/footballproj/.venv/bin/python3
+
+import nflgame.update_sched
+nflgame.update_sched.run()

@@ -1,0 +1,113 @@
+  color: white;@font-face {
+   font-family: crazyfont;
+   src: url('/static/fonts/Supercharge-JRgPo.otf');
+}
+.bottomBar {
+   position: fixed;
+   bottom: 0;
+   left: 0;
+   background-color: #000b81;
+   width: 100vw;
+   height: 8vh;
+   padding: 5px;
+   border-top: 5px solid white;
+   z-index: 11;
+}
+.coachTank {
+   color: white;
+   font-family: 'crazyfont';
+   font-size: 5vh;
+   margin: 5px;
+}
+.tankTalk {
+   position: fixed;
+   left: 25vw;
+   bottom: 0;
+   width: 50vw;
+   color: white;
+   font-size: 2vh;
+}
+.tankButton {
+   cursor: pointer;
+   position: fixed;
+   bottom: 2%;
+   right: 5%;
+   height: 5%;
+   width: 10vw;
+   background-color: #e60303;
+   color: white;
+   border: solid white;
+   border-radius: 10px;
+   font-size: 18px;
+}
+#appearDiv {
+   display: none;
+   position: absolute;
+   top: -60vh;
+   height: 50vh;
+   width: 60vw;
+   z-index: 999;
+   background-color: #000b81;
+   border: 3px solid white;
+   border-radius: 15px;
+}
+.questionBar {
+   position: absolute;
+   height: 10%;
+   width: 70%;
+   font-size: 20px;
+   left: 2.5%;
+   top: 5%;
+   background-color: #e60303;
+   color: white;
+   border: solid white;
+   border-radius: 10px;
+   font-size: 18px;
+}
+#askButton {
+   position: absolute;
+   top: 5%;
+   right: 2.5%;
+   height: 12%;
+   width: 20%;
+   background-color: #e60303;
+   color: white;
+   border: solid white;
+   border-radius: 10px;
+   font-size: 18px;
+}
+.answerCont {
+
+}
+#answer {
+   position: relative;
+   top: 30%;
+   color: white;
+}
+@media (max-width: 1200px) {
+   .coachTank {
+      font-size: 3vh;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+   }
+   .tankTalk {
+      left: 5px;
+      bottom: -4px;
+      text-align: left;
+      width: 83vw;
+   }
+   .bottomBar {
+      height: 10vh;
+   }
+}
+@media (max-width: 800px) {
+   .tankTalk {
+      left: 5px;
+      bottom: -6px;
+      text-align: left;
+      width: 90vw;
+   }
+   .tankButton {
+      bottom: 6vh;
+   }
+}

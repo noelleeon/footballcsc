@@ -1,0 +1,82 @@
+@font-face {
+   font-family: hcrazyfont;
+   src: url('/static/fonts/Supercharge-JRgPo.otf');
+}
+* {
+  overflow: scroll;
+  overflow-x: clip;
+}
+html, body {
+  background-color: #189927;
+}
+.fieldCont {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 20vh; 
+}
+.fieldimg {
+  height: auto;
+  width: 100%;
+}
+.intro {
+  position: absolute;
+  top: 30vh;
+  left: 40vw;
+  font-family: 'hcrazyfont';
+  font-size: 40px;
+  color: white;
+}
+.signupButton {
+  position: absolute;
+  width: 40vw;
+  height: 5vh;
+  top: 70vh;
+  left: 20vw;
+  background-color: #e60303;
+  color: white;
+  font-weight: bold;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+.signinButton {
+  position: absolute;
+  width: 40vw;
+  height: 5vh;
+  top: 130vh;
+  left: 20vw;
+  background-color: #e60303;
+  color: white;
+  font-weight: bold;
+  border: 3px solid white;
+  border-radius: 20px;
+}
+.topgoal {
+  position: absolute;
+  top: 25vh;
+  left: 15vw;
+  font-family: 'hcrazyfont';
+  font-size: clamp(18px, 5vw, 50px);
+  color: white;
+  margin-left: 15%;
+}
+.bottomgoal {
+  position: relative;
+  bottom: 115px;
+  font-family: 'hcrazyfont';
+  font-size: clamp(18px, 4vw, 50px);
+  color: white;
+  margin-left: 15%;
+}
+@media (max-width:700px) {
+  .fieldimg {
+     position: absolute;
+     left: 0;
+     width: 100vw;
+  }
+  .topgoal {
+     top: 0; 
+     width: 100%;
+  }
+}

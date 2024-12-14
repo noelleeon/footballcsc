@@ -1,11 +1,30 @@
-{% extends "searchnav.html" %}
-<!DOCTYPE html>
-<html>
-<body>
+{% extends "bheader.html" %}
+{% load static %}
+{% block extra_head %}
+  <link rel="stylesheet" type="text/css" href="{% static 'dashboard.css' %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+{% endblock %}
 
-  {% block content %}
-    <h1>sheeeeeeeeeeesh</h1>
-  {% endblock %}
+{% include "tankbar.html" %}
+{% block content %}
+  <div id="threeblocks" class="threeblocks">
+    <div class="articlesCont">
+      <p class="articleTitle">Articles</p>
+      <div class="artcontentCont">gegergwtrwhtrwhtrwhtrwhtrwh</div>
+      <button class="dirtButton">dirt</button>
+    </div>
 
-</body>
-</html>
+    <div class="gamesCont">
+      <p class="gamesTitle">Games</p>
+      <div class="gamescontentCont">gegergwtrwhtrwhtrwhtrwhtrwh</div>
+      <button class="denButton">den</button>
+    </div>
+
+    <div class="statsCont">
+      <p class="statsTitle">Statistics</p>
+      <div class="statscontentCont">gegergwtrwhtrwhtrwhtrwhtrwh</div>
+      <button class="dataButton">data</button>
+    </div>
+  </div>
+  {% include "tankbar.html" %}
+{% endblock %}

@@ -1,11 +1,29 @@
-{% extends "searchnav.html" %}
-<!DOCTYPE html>
-<html>
-<body>
+{% extends "bheader.html" %}
+{% load static %}
 
-  {% block content %}
-    <h1>sheeeeeeeeeeesh</h1>
-  {% endblock %}
+{% block extra_head %}
+  <link rel="stylesheet" type="text/css" href="{% static 'stat.css' %}">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+{% endblock %}
 
-</body>
-</html>
+{% block content %}
+<div class="teamSCont">
+  <h1 class="teamTitle">Team Stats</h1>
+  <p class="teamDesc">List of every team in the NFL.<br>
+  Search for the team you are looking for or learn about other teams in this list of NFL teams.</p>
+  <form action="{% url 'teamprofile' %}" method="post">
+    {% csrf_token %}
+    <button class="teamsButton">See Teams</button>
+  </form>
+</div>
+<div class="playerCont">
+  <h1 class="playerTitle">Player Stats</h1>
+  <p class="playerDesc">Large list of every player in the NFL.</br>
+  Search for the player you are looking for or find a new player in this list of NFL atheletes.</p>
+  <form action="{% url 'playerprofile' %}" method="post">
+    {% csrf_token %}
+    <button class="playersButton">See Players</button>
+  </form>
+</div>
+{% include "tankbar.html" %}
+{% endblock %}

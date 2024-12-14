@@ -1,0 +1,22 @@
+table {
+  position: absolute;
+  border-collapse: collapse;
+  height: 100%;
+}
+th, td {
+  border: 1px solid black;
+}
+#playersdiv {
+  position: absolute;
+  top: 10%;
+  height: 20vh;
+  width: 50vw;
+}
+#playerimg {
+   width: auto;
+   height: 5vh;
+}
+#pagination {
+   position: absolute;
+   bottom: 10%;
+}

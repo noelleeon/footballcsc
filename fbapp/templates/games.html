@@ -1,0 +1,15 @@
+{% extends "bheader.html" %}
+{% load static %}
+<!DOCTYPE html>
+<html>
+{% block extra_head %}
+  <link rel="stylesheet" type="text/css" href="{% static 'games.css' %}">
+{% endblock %}
+<body>
+
+  {% block content %}
+  <p id=games>{{ allgames }}</p>
+  {% endblock %}
+
+</body>
+</html>

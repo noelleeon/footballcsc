@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live Data Fetch</title>
+</head>
+<body> 
+    <p id="gameID" class="gameID">{{ gameID }}</p>
+    <h1 id="match-name">Loading...</h1>
+    <p id="nowplay"></p>
+    <p id="homename"></p>
+    <p id="awayname"></p>
+    <p id="currentperiod"></p>
+    <p id="gameclock"></p>
+    <p id="homepoints"></p>
+    <p id="awaypoints"></p>
+    <p id="dandd"></p>
+</body>
+  <script type="text/javascript" src="{% static 'playbyplay.js' %}"></script>
+</html>
+

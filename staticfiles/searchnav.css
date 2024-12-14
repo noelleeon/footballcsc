@@ -1,0 +1,45 @@
+html body {
+   width: 100vw;
+}
+.headerBar {
+   position: absolute;
+   top: 0;
+   left: 0;
+   display: block;
+   height: 10vh;
+   width: 100vw;
+   background-color: black;
+}
+.blitztitle {
+   color: #037015;
+   font-size: clamp(12px, 5vw, 50px);
+}
+.tankButton {
+   position: absolute;
+   top: 40%;
+   right: 20%;
+}
+#appearDiv {
+   display: none;
+   position: absolute;
+   top: 20vh;
+   width: 40vw;
+}
+.questionBar {
+   position: absolute;
+   top: 40%;
+   right: 10vw;
+}
+.askButton {
+   position: absolute;
+   top: 40%;
+   right: 4vw;
+}
+.answerCont {
+
+}
+.logoutButton {
+   position: absolute;
+   top: 40%;
+   right: 5%;
+}

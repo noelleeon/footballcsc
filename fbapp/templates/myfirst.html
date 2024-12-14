@@ -1,20 +1,25 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-
-<h1>BLITZ3D: DIRT, DEN, DATA</h1>
-<p>Sign in to ball!</p>
+{% extends "bheader.html" %}
+{% load static %}
+{% block extra_head %}
+   <link rel="stylesheet" type="text/css" href="{% static 'home.css' %}">
+   <meta name="viewport" content="width=device-width, initial-scale=1" />
+{% endblock %}
+{% block content %}
+<div class="fieldCont">
+  <img src="../static/imgs/field3.jpg" class="fieldimg">
+  <h1 class="topgoal">WHAT THE FANS WANT</h1>
 
   <div>
-    <form>
-      <label for="username"> Username:</label><br />
-      <input type="text" id="username" name="username" value="uzerrrrname"/><br />
-      <label for="password"> Password:</label><br />    
-      <input type="text" id="password" name="password" value="pazzzzword"/>            
-      <input type="submit" value="Log In">
+  <!-- https://www.w3schools.com/django/django_add_bootstrap5.php -->
+    <form action="{% url 'signinto' %}" method="post">
+      {% csrf_token %}
+      <button type="submit" class="signinButton">Sign In</button>
     </form>
-    <button>Don't have an account? Sign up</button>
+    <form action="{% url 'signupto' %}" method="post">
+      {% csrf_token %}
+      <button type="submit" class="signupButton">Sign Up</button>
+    </form>
   </div>
-</body>
-</html>
+  <h1 class="bottomgoal">WHAT THE FANS NEED</h1>
+</div>
+{% endblock %}

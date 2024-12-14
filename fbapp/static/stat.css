@@ -1,0 +1,54 @@
+.teamSCont {
+  position: absolute;
+  background-color: black;
+  border: 4px solid white;
+  border-radius: 14px;
+  top: 20vh;
+  width: 35vw;
+  left: 10vw;
+  height: 50vh;
+  padding: 20px;
+}
+.teamTitle {
+  color: white;
+  font-weight: bold;
+}
+.teamDesc {
+  color: white;
+}
+.teamsButton {
+  position: relative;
+  background-color: #e60303;
+  border: 4px solid white;
+  border-radius: 14px;
+  height: 15%;
+  width: 90%;
+  left: 10%;
+}
+.playerCont {
+  position: absolute;
+  background-color: black;
+  border: 4px solid white;
+  border-radius: 14px;
+  top: 20vh;
+  width: 35vw;
+  right: 10vw;
+  height: 50vh;
+  padding: 20px;
+}
+.playerTitle {
+  color: white;
+  font-weight: bold;
+}
+.playerDesc {
+  color: white;
+}
+.playersButton {
+  position: relative;
+  background-color: #e60303;
+  border: 4px solid white;
+  border-radius: 14px;
+  height: 15%;
+  width: 90%;
+  left: 10%;
+}

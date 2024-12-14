@@ -1,0 +1,172 @@
+@font-face {
+   font-family: bcrazyfont;
+   src: url('/static/fonts/Supercharge3D-GO79P.otf');
+}
+@font-face {
+   font-family: bmobilecrazyfont;
+   src: url('/static/fonts/Supercharge-JRgPo.otf');
+}
+html body {
+   width: 100vw;
+   background-color: #189927;
+   overflow: clip;
+}
+.headerBar {
+   position: fixed;
+   top: 0;
+   left: 0;
+   display: block;
+   height: 15vh;
+   width: 100vw;
+   background-color: black;
+   z-index: 10;
+}
+.logo {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   height: calc(100% - 20px);
+   width: auto;
+}
+.blitztitle {
+   position: absolute;
+   top: 25%;
+   width: 100%;
+   text-align: center;
+   color: white;
+   font-family: 'bcrazyfont';
+   font-size: clamp(40px, 3vw, 50px);
+   margin: 0;
+}
+.menuField {
+   position: absolute;
+   top: -70vh;
+   left: 0;
+   background-color: #189927;
+   height: 80vh;
+   width: 20vw;
+   transition: 1s ease-in-out;
+   z-index: 9;
+   border-left: 5px solid white;
+   border-top: 5px solid white;
+   border-bottom: 5px solid white;
+}
+.menuBar {
+   position: absolute;
+   background-color: #189927;
+   bottom: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   color: white;
+   z-index: 6;
+   overflow: clip; 
+}
+.menuField:hover {
+   transform: translateY(70vh);
+}
+.menuField:hover + .flagMenu{
+   transform: translateY(70vh);
+}
+.flagMenu {
+   position: absolute;
+   height: 10vh;
+   bottom: -8vh;
+   width: 5vw;
+   background-color: yellow;
+   transition: 1s ease-in-out;
+   z-index: 5;
+}
+.dashLink, .profileLink, .statsLink,
+.articlesLink, .gamesLink, .logoutLink {
+   position: absolute;
+   cursor: pointer;
+   height: 17.5%;
+   width: 100%;
+   background-color: #189927;
+   border-left: 5px solid white;
+   border-top: 5px solid white;
+   border-bottom: 5px solid white;
+   border-right: 0;
+   text-decoration: none;
+   font-family: 'bcrazyfont';
+   font-size: 20px;
+   color: white;
+   display: inline-flex;
+   justify-content: center;
+   align-items: center;
+}
+.dashLink {
+   bottom: 70%;
+}
+.statsLink {
+   bottom: 52.5%;
+}
+.articlesLink {
+   bottom: 35%;
+}
+.gamesLink {
+   bottom: 17.5%;
+}
+.logoutLink {
+   bottom: 0;
+}
+@media (max-width:800px){
+   .blitztitle {
+      font-size: 30px;
+      width: 100%;
+      margin-left:auto;
+   }
+}
+@media (max-width:600px){
+   .headerBar {
+      height: 15vh;
+      text-align: left;
+      overflow: clip;
+   }
+   .blitztitle {
+      font-family: 'bmobilecrazyfont';
+      text-align: left;
+      left: 0;
+      font-size: 30px;
+      width: 70%;
+      height: 100%;
+   }
+   .logo {
+      left: 70%;
+   }
+}
+.tickerCont {
+  margin-top: 0;
+  z-index: 12;
+  overflow-x: hidden;
+  display: flex;
+  background-color: #e60303;
+}
+.tickernews {
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 1rem;
+  animation-name: slideleft;
+  animation-duration: 480s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+  animation-direction: normal;
+}
+.newsfont {
+  font-size: 15px;
+  font-weight: bold;
+  color: white !important;
+  font-family: Helvetica;
+}
+@keyframes slideleft {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
+}

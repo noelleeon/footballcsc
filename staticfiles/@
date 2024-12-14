@@ -1,0 +1,12 @@
+#playerstable {
+   position: absolute;
+   top: 20vh;
+   height: 60vh;
+   width: 80vw;
+   border-collapse: collapse;
+   border: 2px solid;
+}
+#playerimg {
+   width: 50px;
+   height: auto;
+}
